@@ -1,0 +1,48 @@
+
+#back{
+
+    background:url(road1.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height:450px;
+
+
+
+}
+
+#road
+{
+    
+    width: auto;
+
+}
+#img
+{
+    width: 150px;
+}
+
+ #img1
+ {
+    width: 150px;
+ }
+#btm
+{
+    background-color: rgb(30, 255, 0);
+    width: 100px;
+    font-size: 30px;
+    margin-top: 30px;
+   border-radius: 20px;
+
+}
+
+#dbutton
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
